@@ -10,6 +10,10 @@ Dataset:
     FER-2013
 """
 
+"""
+NOTE: PLEASE CHANGE THE PATHS ACCORDING TO YOUR SYSTEM AFTER DOWNLOADING THE FILES
+"""
+
 from keras_preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten

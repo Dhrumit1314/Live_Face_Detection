@@ -10,6 +10,10 @@ Dataset: UTKFace
 https://www.kaggle.com/datasets/jangedoo/utkface-new?resource=download
 """
 
+"""
+NOTE: PLEASE CHANGE THE PATHS ACCORDING TO YOUR SYSTEM AFTER DOWNLOADING THE FILES
+"""
+
 import pandas as pd
 import numpy as np
 import tensorflow as tf
@@ -178,15 +182,3 @@ print(f"Accuracy: {accuracy_score(y_true=y_test_gender, y_pred=y_pred)}")
 # Confusion matrix
 cm = confusion_matrix(y_true=y_test_gender, y_pred=y_pred)
 sns.heatmap(cm, annot=True, fmt='d')
-
-# TODO: Test the model - Age Model
-
-
-
-
-
-
-
-
-
-

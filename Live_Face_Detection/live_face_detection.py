@@ -5,6 +5,11 @@ Created on Thu Feb 29 17:46:17 2024
 @author: Dhrumit Patel
 """
 
+
+"""
+NOTE: PLEASE CHANGE THE PATHS ACCORDING TO YOUR SYSTEM AFTER DOWNLOADING THE FILES
+"""
+
 from keras.models import load_model
 from time import sleep
 from keras_preprocessing.image import img_to_array
