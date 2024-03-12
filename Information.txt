@@ -1,6 +1,6 @@
 Due to computational constraints, I was only able to train the model for 3 epochs instead of the intended 10.
  However, I have saved and uploaded the partially trained models. 
- You can find these models in the respective repositories on the links given below.
+ You can find these models in the respective folders on the links given below.
 
 The 'Models' repository contains the model trained for facial emotion, age, and gender detection. 
 The 'Haarcascade Model' repository houses the pre-trained model for face detection. 
