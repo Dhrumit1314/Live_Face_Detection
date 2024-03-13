@@ -6,8 +6,8 @@ Created on Thu Feb 29 14:22:48 2024
 """
 
 """
-Dataset:
-    FER-2013
+Dataset: FER-2013
+https://www.kaggle.com/datasets/msambare/fer2013
 """
 
 """
