@@ -1,0 +1,7 @@
+tensorflow==2.10.1
+opencv-python
+streamlit
+numpy 
+pandas
+keras
+keras_preprocessing
